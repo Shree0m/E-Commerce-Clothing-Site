@@ -1,7 +1,7 @@
 <?php
 
-$publishable_key ="pk_test_51OwkapSIjTwHbCfMhcuXsXOtZxiVVQBB0AAq7DMkkGUXx0I6rWIR8U6NZpeYcYcdLFKZzuaXS2Np6ncPK7NTcNPm00pZPHAF4O";
-$secret_key="sk_test_51OwkapSIjTwHbCfMgzZxYZ9JcGoHXS2uqdvsPzKW4RpSUAs4EaLsF7kNuJDyHtsWUQbO0X6Nj8XWOOWmOTrSrEmy00OhxFSM9w";
+$publishable_key ="YOUR_PUBLISHABLE_KEY";
+$secret_key="YOUR_SECRET_KEY";
 
 
 $db_name = 'mysql:host=localhost;dbname=clothes_db';
